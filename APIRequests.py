@@ -1,4 +1,4 @@
-class APIRequests(object):
+class APIRequests():
    
     def RequestCurrentForecast(url):
         import requests
